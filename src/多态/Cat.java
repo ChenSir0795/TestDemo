@@ -1,0 +1,10 @@
+package ∂‡Ã¨;
+
+public class Cat extends Animal {
+	public void show() {
+		System.out.println("√®≥‘”„");
+	}
+	public void work() {
+		System.out.println("√®◊•¿œ Û");
+	}
+}
